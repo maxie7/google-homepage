@@ -7,7 +7,32 @@
 }
 
 #text-search {
+	font-size: 16px;
+	font-family: Arial, sans-serif;
+	margin-bottom: 20px;
+	padding: 5px;
+	height: 30px;
 	width: 585px;
 	top: 39px;
 	left: 1px;
+}
+
+.button {
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	margin: 11px 4px;
+	padding-top: 6px;
+	padding-right: 16px;
+	padding-bottom: 6px;
+	padding-left: 16px;
+}
+
+.button:hover {
+	font-size: 14px;
+	font-family: Arial, sans-serif;
+	margin: 11px 4px;
+	padding-top: 6px;
+	padding-right: 16px;
+	padding-bottom: 6px;
+	padding-left: 16px;
 }
