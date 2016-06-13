@@ -56,10 +56,11 @@ li a:hover {
 
 .logo-subtext {
     color: #4285f4;
+    /*position: static;*/
     font: 16px/16px roboto-regular, arial, sans-serif;
     left: 106px;
-    position: relative;
-    top: -20px;
+ 
+    top: 50px;
     white-space: nowrap;
 }
 
